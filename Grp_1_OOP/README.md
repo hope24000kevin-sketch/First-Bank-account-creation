@@ -108,6 +108,16 @@ The file `data/firstbank.accdb` is created automatically. Tables:
 
 You can open the database in Microsoft Access to verify saved records.
 
+## License
+
+This project is developed for academic purposes as coursework for the Faculty of Science and Technology_OOP.
+
+## Contact
+
+For issues or questions about this application, please refer to Group_1 OOP Victoria University Kampala,
+Email: hope24000kevin@gmail.com
+
+
 ## Material 3 Expressive Design Notes
 
 This desktop theme follows Google's M3 Expressive guidance:
@@ -120,13 +130,4 @@ This desktop theme follows Google's M3 Expressive guidance:
 
 Reference: [Material Design 3](https://m3.material.io/) and [Expressive Design research](https://design.google/library/expressive-material-design-google-research)
 
-## Group Submission Checklist
 
-- [ ] Push Java source files and `data/firstbank.accdb` to GitHub
-- [ ] Capture GUI screenshots for the Word answer sheet
-- [ ] Include this README setup instructions in your documentation section
-- [ ] Submit through V-class before the deadline
-
-## Authors
-
-Group coursework — Object Oriented Programming (1201ST / 1301ST)
